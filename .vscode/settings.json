@@ -1,3 +1,4 @@
 {
-  "editor.tabSize": 4
+  "editor.tabSize": 4,
+  "python.pythonPath": "c:\\Users\\Mark\\Documents\\VSCodeProjects\\pymosh_django\\.venv\\Scripts\\python.exe"
 }
